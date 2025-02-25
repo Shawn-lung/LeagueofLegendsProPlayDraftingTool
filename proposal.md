@@ -154,7 +154,7 @@ In professional League of Legends, the drafting phase is high-stakes and fast-pa
 - Oversee technical development, including data pipeline, predictive modeling, and NLP integration.  
 - Ensure system architecture supports scalability and model accuracy.
 
-**Business & User Experience Lead (Emily):**  
+**Business & User Experience Lead (Chen-Wei, Guo):**  
 - Coordinate stakeholder engagement, gather feedback from teams and users (both pro and casual).  
 - Oversee quality assurance, user testing, and the development of an intuitive UI/dashboard.  
 - Manage project documentation, communication with non-technical stakeholders, and ensure milestones are met.
